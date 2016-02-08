@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Klientu atsauksmes]]></title>
         <description><![CDATA[Klientu atsauksmes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rigabrain-atsauksmes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 11:55:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 12:14:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rigabrain-atsauksmes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tevi varētu interesēt: Klientu atsauksmes par RigaBrain februāra un marta mēnesī Kad smadzenes trenē bērni. Mūsu starpvalstu kolēģu saņemtās atsauksmes (II daļa) Kad smadzenes trenē bērni. Mūsu starpvalstu kolēģu saņemtās atsauksmes (I daļa) Lietojot marihuānu pusaudža gados, pieaugot raksturīga nepārtraukta miegainība Smadzenes miegā strādā tāpat, kā nomodā</p>]]></description>
+            <link>https://thegrid.ai/rigabrain-atsauksmes/tevi-varetu-intereset-klientu-atsauksmes-par-rigabrain-febr/index.html</link>
+            <guid isPermaLink="false">a5818be4-76d3-415f-8345-7563f29cf0e3</guid>
+            <pubDate>Mon, 08 Feb 2016 12:13:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77d14c01-91be-4280-859e-2de294d2832e.JPG">]]></description>
-            <link>undefined79bbc435-11d0-4869-9705-7225439e400b/index.html</link>
+            <link>https://thegrid.ai/rigabrain-atsauksmes/79bbc435-11d0-4869-9705-7225439e400b/index.html</link>
             <guid isPermaLink="false">79bbc435-11d0-4869-9705-7225439e400b</guid>
             <pubDate>Mon, 08 Feb 2016 11:54:23 GMT</pubDate>
         </item>
