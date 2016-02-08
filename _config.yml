@@ -2,6 +2,7 @@ name: RigaBrain atsauksmes
 favicon: null
 layout_spectrum: 0.36554
 typography_spectrum: 0.66319
+title: Klientu atsauksmes
 cta:
   domain: null
   bucket: null
