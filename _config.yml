@@ -1,7 +1,7 @@
 name: RigaBrain atsauksmes
 favicon: null
-layout_spectrum: 0.2336922399699688
-typography_spectrum: 0.22416678350418806
+layout_spectrum: 0.36554
+typography_spectrum: 0.66319
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#bed63c'
+    - '#8bc63f'
+    - '#b9d98c'
+    - '#d5e7c0'
   brandStrength: 0.9875533694867045
-  lightness: 0.5422267727553844
+  lightness: 0.625
   saturation: 0.28095115232281387
   rhythmicContrast: 0.8559714325238019
 purpose: []
