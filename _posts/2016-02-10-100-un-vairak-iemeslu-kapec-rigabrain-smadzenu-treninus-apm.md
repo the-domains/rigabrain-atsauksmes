@@ -1,24 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://rigabraininfo.uservoice.com'
-  name: Uservoice
-  favicon: 'http://rigabraininfo.uservoice.com/favicon.ico'
-  domain: rigabraininfo.uservoice.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: lv
+starred: false
 keywords: []
 description: 'Zemāk ir uzskaitīti iemesli, kāpēc cilvēki nāk uz RigaBrain seansiem. Šie simptomi var būt saistīti ar smadzeņu elektromagnētisko aktivitāti, smadzeņu ritmu. Uzlabojoties smadzeņu ritmam, uzlabojas CNS stabilitāte, rezultātā var mazināties vai izzust zemāk uzskaitītie simptomi, ja par to iemeslu ir bijusi smadzeņu ritma nestabilitāte.'
-inLanguage: lv
+datePublished: '2016-02-10T17:20:04.071Z'
+dateModified: '2016-02-10T17:19:51.380Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://rigabraininfo.uservoice.com/knowledgebase/articles/96488-100-un-vair%C4%81k-iemeslu-k%C4%81p%C4%93c-man-b%C5%ABtu-j%C4%81apmekl%C4%93-ri'
-title: '100 un vairāk iemeslu, kāpēc RigaBrain smadzeņu treniņus apmeklē citi - RigaBrain smadzeņu centra klientu atbalsts'
-datePublished: '2016-02-10T17:18:06.556Z'
-dateModified: '2016-02-10T17:17:23.316Z'
+title: '100 un vairāk iemeslu, kāpēc RigaBrain smadzeņu treniņus apmeklē citi '
 sourcePath: _posts/2016-02-10-100-un-vairak-iemeslu-kapec-rigabrain-smadzenu-treninus-apm.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Uservoice
+  domain: rigabraininfo.uservoice.com
+  url: 'http://rigabraininfo.uservoice.com'
+  favicon: 'http://rigabraininfo.uservoice.com/favicon.ico'
+url: 100-un-vairak-iemeslu-kapec-rigabrain-smadzenu-treninus-apm/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
