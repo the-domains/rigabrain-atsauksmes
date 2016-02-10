@@ -6,21 +6,21 @@ isBasedOnUrl: 'http://www.rigabrain.com/blog/2012/08/08/muzikis-ainars-bumbieris
 inLanguage: lv
 starred: false
 keywords: []
-description: 'iesaki draugiem Ainars stāsta: "Es pirmo reizi šo programmu pamēģināju 2011. gadā. Man tā bija ziņkārība - pamēģināt šo sensacionālo sistēmu, kura sola prātam neaptveramus rezultātus. Un, ziniet, tā arī bija! Tie tiešām bija prātam neaptverami! Lai arī pirmais seanss bija īsāks (tādēļ, ka smadzenēm esot „jāsagatavojas" pirmajam darbam un jāpierod pie treniņiem), varbūt man šis tiešām jūtamais efekts ilga ap nedēļu.'
-datePublished: '2016-02-08T12:13:40.304Z'
-dateModified: '2016-02-08T12:11:59.700Z'
+description: 'Ainars stāsta: "Es pirmo reizi šo programmu pamēģināju 2011. gadā. Man tā bija ziņkārība - pamēģināt šo sensacionālo sistēmu, kura sola prātam neaptveramus rezultātus. Un, ziniet, tā arī bija! Tie tiešām bija prātam neaptverami! '
+datePublished: '2016-02-10T17:22:38.408Z'
+dateModified: '2016-02-10T17:22:36.438Z'
 author: []
 related: []
 app_links: []
-title: 'RigaBrain.com - " Mūziķis Ainars Bumbieris. Mana pieredze ar RigaBrain treniņiem - RigaBrain blogs'
+title: Mūziķis Ainars Bumbieris. Mana pieredze ar RigaBrain treniņiem
+sourcePath: _posts/2016-02-08-rigabraincom-muzikis-ainars-bumbieris-mana-pieredze-ar.md
+published: true
 authors: []
 publisher:
   name: Rigabrain
   domain: www.rigabrain.com
   url: 'http://www.rigabrain.com'
   favicon: 'http://www.rigabrain.com/favicon.png'
-sourcePath: _posts/2016-02-08-rigabraincom-muzikis-ainars-bumbieris-mana-pieredze-ar.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
