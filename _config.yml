@@ -1,20 +1,4 @@
-name: RigaBrain atsauksmes
-favicon: null
-layout_spectrum: 0.7883
-typography_spectrum: 0.66319
-title: Klientu atsauksmes
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +8,11 @@ color:
     - '#d5e7c0'
   brandStrength: 0.9875533694867045
   lightness: 0.625
-  saturation: 0.28095115232281387
   rhythmicContrast: 0.8559714325238019
+  saturation: 0.28095115232281387
+cta: {}
+layout_spectrum: 0.666666
+name: RigaBrain atsauksmes
+opengraph: {}
 purpose: []
+typography_spectrum: 0.66319
