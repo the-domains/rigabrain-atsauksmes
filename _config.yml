@@ -1,22 +1,4 @@
-name: RigaBrain atsauksmes
-favicon: null
-layout_spectrum: 0.666666
 typography_spectrum: 0.66319
-title: >-
-  Katu dienu, tiek uzrakstīta kāda atsauksme par RigaBrain. Un tā jau kopš 2008.
-  gada!
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -28,4 +10,26 @@ color:
   lightness: 0.625
   saturation: 0.28095115232281387
   rhythmicContrast: 0.8559714325238019
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.666666
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: RigaBrain atsauksmes
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: RigaBrain
+    url: 'http://www.rigabrain.com/'
+    type: external
+favicon: null
+title: >-
+  Katu dienu, tiek uzrakstīta kāda atsauksme par RigaBrain. Un tā jau kopš 2008.
+  gada!
 purpose: []
